@@ -7,3 +7,4 @@
 #### Day 4: [Array Cardio Day 1](https://eremor.github.io/JS30days/Cardio/)
 #### Day 5: [Flex Panels Image Gallery](https://eremor.github.io/JS30days/FlexGallery/)
 #### Day 6: [Ajax Type Ahead](https://eremor.github.io/JS30days/TypeAhead/)
+#### Day 7: [Array Cardio Day 2](https://eremor.github.io/JS30days/CardioDay2/)
