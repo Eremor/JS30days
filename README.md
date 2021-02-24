@@ -9,3 +9,4 @@
 #### Day 6: [Ajax Type Ahead](https://eremor.github.io/JS30days/TypeAhead/)
 #### Day 7: [Array Cardio Day 2](https://eremor.github.io/JS30days/CardioDay2/)
 #### Day 8: [Fun with HTML Canvas](https://eremor.github.io/JS30days/Canvas/)
+#### Day 9: [Console Tricks](https://eremor.github.io/JS30days/DevTool/)
