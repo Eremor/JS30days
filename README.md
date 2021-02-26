@@ -11,3 +11,4 @@
 #### Day 8: [Fun with HTML Canvas](https://eremor.github.io/JS30days/Canvas/)
 #### Day 9: [Console Tricks](https://eremor.github.io/JS30days/DevTool/)
 #### Day 10: [Hold Shift to Check Multiple Checkboxes](https://eremor.github.io/JS30days/MultipleCheckboxes/)
+#### Day 11: [Custom HTML Video Player](https://eremor.github.io/JS30days/VideoPlayer/)
