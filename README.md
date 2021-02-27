@@ -12,3 +12,4 @@
 #### Day 9: [Console Tricks](https://eremor.github.io/JS30days/DevTool/)
 #### Day 10: [Hold Shift to Check Multiple Checkboxes](https://eremor.github.io/JS30days/MultipleCheckboxes/)
 #### Day 11: [Custom HTML Video Player](https://eremor.github.io/JS30days/VideoPlayer/)
+#### Day 12: [Key Sequence Detection](https://eremor.github.io/JS30days/KeySequenceDetection/)
