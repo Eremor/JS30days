@@ -15,3 +15,4 @@
 #### Day 12: [Key Sequence Detection](https://eremor.github.io/JS30days/KeySequenceDetection/)
 #### Day 13: [Slide In on Scroll](https://eremor.github.io/JS30days/SlideScroll/)
 #### Day 14: [JS Reference VS Copy](https://eremor.github.io/JS30days/ReferencesVSCopying/)
+#### Day 15: [Local Storage](https://eremor.github.io/JS30days/LocalStorage/)
