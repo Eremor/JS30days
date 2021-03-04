@@ -17,3 +17,4 @@
 #### Day 14: [JS Reference VS Copy](https://eremor.github.io/JS30days/ReferencesVSCopying/)
 #### Day 15: [Local Storage](https://eremor.github.io/JS30days/LocalStorage/)
 #### Day 16: [Text Shadow Mouse Move Effect](https://eremor.github.io/JS30days/MouseMoveShadow/)
+#### Day 17: [Sorting Band Name without Articles](https://eremor.github.io/JS30days/SortWithoutArticles/)
