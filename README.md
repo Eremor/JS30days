@@ -21,3 +21,4 @@
 #### Day 18: [Adding Up Times with Reduce](https://eremor.github.io/JS30days/AddingUpTimes/)
 #### Day 19: [Unreal Webcam Fun](https://eremor.github.io/JS30days/WebcamFun/)
 #### Day 20: [Speech Detection](https://eremor.github.io/JS30days/SpeechDetection/)
+#### Day 21: [Geolocation](https://eremor.github.io/JS30days/Geolocation/)
