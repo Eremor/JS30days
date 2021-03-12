@@ -22,3 +22,4 @@
 #### Day 19: [Unreal Webcam Fun](https://eremor.github.io/JS30days/WebcamFun/)
 #### Day 20: [Speech Detection](https://eremor.github.io/JS30days/SpeechDetection/)
 #### Day 21: [Geolocation](https://eremor.github.io/JS30days/Geolocation/)
+#### Day 22: [Follow Along Link Highlighter](https://eremor.github.io/JS30days/FollowAlongLinkHighlighter/)
