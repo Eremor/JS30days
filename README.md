@@ -24,3 +24,4 @@
 #### Day 21: [Geolocation](https://eremor.github.io/JS30days/Geolocation/)
 #### Day 22: [Follow Along Link Highlighter](https://eremor.github.io/JS30days/FollowAlongLinkHighlighter/)
 #### Day 23: [Speech Synthesis](https://eremor.github.io/JS30days/SpeechSynthesis/)
+#### Day 24: [Sticky Nav](https://eremor.github.io/JS30days/StickyNav/)
