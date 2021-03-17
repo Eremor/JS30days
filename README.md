@@ -25,3 +25,4 @@
 #### Day 22: [Follow Along Link Highlighter](https://eremor.github.io/JS30days/FollowAlongLinkHighlighter/)
 #### Day 23: [Speech Synthesis](https://eremor.github.io/JS30days/SpeechSynthesis/)
 #### Day 24: [Sticky Nav](https://eremor.github.io/JS30days/StickyNav/)
+#### Day 25: [Event Capture, Propagation, Bubbling and Once](https://eremor.github.io/JS30days/UnderstandingJSCapture/)
