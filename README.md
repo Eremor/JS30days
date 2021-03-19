@@ -27,3 +27,4 @@
 #### Day 24: [Sticky Nav](https://eremor.github.io/JS30days/StickyNav/)
 #### Day 25: [Event Capture, Propagation, Bubbling and Once](https://eremor.github.io/JS30days/UnderstandingJSCapture/)
 #### Day 26: [Follow Along Nav](https://eremor.github.io/JS30days/FollowAlongNav/)
+#### Day 27: [Click and Drag to Scroll](https://eremor.github.io/JS30days/ClickDrag/)
