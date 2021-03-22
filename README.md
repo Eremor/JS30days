@@ -28,3 +28,4 @@
 #### Day 25: [Event Capture, Propagation, Bubbling and Once](https://eremor.github.io/JS30days/UnderstandingJSCapture/)
 #### Day 26: [Follow Along Nav](https://eremor.github.io/JS30days/FollowAlongNav/)
 #### Day 27: [Click and Drag to Scroll](https://eremor.github.io/JS30days/ClickDrag/)
+#### Day 28: [Video Speed Controller](https://eremor.github.io/JS30days/VideoSpeedController/)
