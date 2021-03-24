@@ -30,3 +30,4 @@
 #### Day 27: [Click and Drag to Scroll](https://eremor.github.io/JS30days/ClickDrag/)
 #### Day 28: [Video Speed Controller](https://eremor.github.io/JS30days/VideoSpeedController/)
 #### Day 29: [Countdown Timer](https://eremor.github.io/JS30days/CountdownTimer/)
+#### Day 30: [Whack A Mole Game](https://eremor.github.io/JS30days/WhackMole/)
